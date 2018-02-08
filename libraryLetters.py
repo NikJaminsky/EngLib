@@ -9,8 +9,7 @@ def showAll():
     for lb,val in libr.items():
         print(lb, "-", val)
 
-#добавить
-#функции
-#добавление, удаление слов
-#форму
-#случайный показ слова 
+#Add
+#func
+#form
+#random show letters
