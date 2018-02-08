@@ -1,5 +1,8 @@
-from libraryLetters import *
 
+#call letters from library
+
+
+from libraryLetters import *
 
 while True:
     print("Input word:")
