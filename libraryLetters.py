@@ -8,9 +8,3 @@ libr = {sh.cell_value(a,3): sh.row_values(a, 4, 8) for a in range(9, 300)}  #fil
 def showAll():
     for lb,val in libr.items():
         print(lb, "-", val)
-
-#добавить
-#функции
-#добавление, удаление слов
-#форму
-#случайный показ слова 
