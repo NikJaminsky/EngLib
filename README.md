@@ -3,8 +3,8 @@ English to Russia library
 
 add
 - changing path to library
-- add a word and translation
-- remove a word
+- adding a words and them translation
+- removing a words
 
 change
 - form
