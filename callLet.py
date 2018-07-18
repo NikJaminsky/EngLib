@@ -1,9 +1,7 @@
-
-#call letters from library
-
-
 from libraryLetters import *
 
+
+#for console output
 while True:
     print("Input word:")
     lett = input()
